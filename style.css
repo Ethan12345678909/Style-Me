@@ -1,0 +1,53 @@
+.heading {
+ font-family: verdana;
+}
+.subheading {
+font-family: verdana;
+}
+body {
+    background-color: Gainsboro;
+}
+.leftimage {
+    padding-left: 135px;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.rightimage {
+    padding-right:130px;
+    padding-left: 100px;
+    padding-bottom:45px;
+
+}
+.leftparagraph {
+    font-family: verdana;
+    font-size: 18px;
+    border: 1px black solid;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.rightparagraph {
+    font-family: verdana;
+    font-size: 18px;
+    border: 1px black solid;
+    padding-top:50px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 50px;
+}
+.ppadding {
+    padding-top: 40px;
+}
+.button {
+    font-family: verdana;
+    font-size: 23px;
+    background-color: silver;
+    padding-left:15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.buttondiv {
+    padding-left: 150px;
+}
